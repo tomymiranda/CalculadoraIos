@@ -1,6 +1,6 @@
 import React from 'react';
 import {SafeAreaViewBase} from 'react-native';
-import {CalculadoraScreen} from './src/components/CalculadoraScreen';
+import {CalculadoraScreen} from './src/screens/CalculadoraScreen';
 import {styles} from './src/theme/appTheme';
 
 const App = () => {
