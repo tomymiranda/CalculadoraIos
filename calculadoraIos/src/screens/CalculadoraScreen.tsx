@@ -141,7 +141,7 @@ export const CalculadoraScreen = () => {
         <BotonCalculadora texto="1"  action = {agregarNumero} />
         <BotonCalculadora texto="2"  action = {agregarNumero} />
         <BotonCalculadora texto="3"  action = {agregarNumero} />
-        <BotonCalculadora texto="+" color="#ff9427" action ={limpiarPantalla} />
+        <BotonCalculadora texto="+" color="#ff9427" action ={btnSumar} />
       </View>
       
       <View style={styles.fila}>
