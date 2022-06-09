@@ -6,8 +6,6 @@ import { styles } from '../theme/appTheme';
 import { useCalculadora } from '../hooks/useCalculadora';
 
 export const CalculadoraScreen = () => {
-
-  
   //se importa funciones de useCalculadora hook
   const {
     numeroAnterior,
